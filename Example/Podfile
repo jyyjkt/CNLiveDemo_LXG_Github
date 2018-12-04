@@ -1,0 +1,7 @@
+use_frameworks!
+target 'CNLiveDemo_LXG_Github_Tests' do
+  pod 'CNLiveDemo_LXG_Github', :path => '../'
+  
+  pod 'AFNetworking', '~> 2.3'
+  
+end

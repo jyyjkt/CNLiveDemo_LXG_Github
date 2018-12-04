@@ -1,0 +1,6 @@
+framework module CNLiveDemo_LXG {
+  umbrella header "CNLiveDemo_LXG-umbrella.h"
+
+  export *
+  module * { export * }
+}
